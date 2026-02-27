@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace baitap2702
 {
     internal class baitait4
     {
-
         class Product
         {
             public int Id;
@@ -203,13 +201,10 @@ namespace baitap2702
                             }
                             break;
                     }
-
                 } 
                 while (choice != 0);
             }
         }
-
-
-
     }
 }
+
